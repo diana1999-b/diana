@@ -1,14 +1,15 @@
-package com.company;
-public  class Main {
+ackage com.company;
+
+public class Main {
+
     public static void main(String[] args) {
         // write your code here
-        double t = 10;//1-ый день
-        double sum = 0;
-        for (int i = 1; i <= 7; i++) {
-            t = (t + t * 0.1);
-            sum = sum + t;
+        int t = 0; //task 2
+        int k = 0;
+        while (t < 24) {
+            t = t + 3;
+            k = k + 2;
+            System.out.println("Количество амеб:" + k + "при t:" + t);
         }
-     System.out.println("Суммарный путь за 7 дней : " + sum + "км");//104.358881
     }
 }
-
