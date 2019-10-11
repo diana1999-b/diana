@@ -8,7 +8,7 @@ public  class Main {
             t = (t + t * 0.1);
             sum = sum + t;
         }
-     System.out.println("Суммарный путь за 7 дней : " + sum + "км");
+     System.out.println("Суммарный путь за 7 дней : " + sum + "км");//104.358881
     }
 }
 
