@@ -3,8 +3,9 @@ package Homework_1.task_2;
 public class Task2 {
 
     public static void main(String[] args) {
-            // write your code here
-            int t = 0; //task 2
+            // t - плохое название, переименуй
+            int t = 0; //task 2 - зачем этот комментарий?
+            // k - плохое название, переименуй
             int k=0;
             while (t < 24)
             {
