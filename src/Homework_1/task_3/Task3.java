@@ -1,7 +1,7 @@
 package Homework_1.task_3;
 
 public class Task3 {
-
+// пустая строка не нужна
         public static void main(String[] args) {
             // write your code here
             double sum = 0;
