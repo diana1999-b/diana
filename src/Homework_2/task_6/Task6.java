@@ -3,7 +3,7 @@ package Homework_2.task_6;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class task6 {
+public class Task6 {
 
     public static void main (String [] args) {
         /*Есть массив чисел. Необходимо создать другой массив содержащий только четные элементы из первого*/

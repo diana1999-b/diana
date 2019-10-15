@@ -3,7 +3,7 @@ package Homework_2.task_1;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class task1 {
+public class Task1 {
     public static void main (String [] args) {
             /*Создать массив из 3 элементов. При помощи класса сканер и пользователя заполнить его. Вывести сумму,
             наименьшее и наибольшее из чисел на экран*/

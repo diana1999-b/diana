@@ -2,7 +2,7 @@ package Homework_2.task_5;
 
 import java.util.Arrays;
 
-public class task5 {
+public class Task5 {
 
     public static void main (String [] args)
     {
