@@ -3,6 +3,8 @@ package Homework_2.task_3;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// форматируй код
+// старайся не оставлять комментарии в коде
 public class Task3 {
 
     public static void main (String[] args)
@@ -16,7 +18,7 @@ public class Task3 {
         for (int i =0; i< array.length; i++)
         {
             System.out.println("Enter array element: ");
-            Scanner inArray = new Scanner(System.in);
+            Scanner inArray = new Scanner(System.in); // один раз за пределами цикла
             array[i] = inArray.nextInt();
             if (array[i]%2!=0)//проверка если остаток от деления не равен 0
             {
