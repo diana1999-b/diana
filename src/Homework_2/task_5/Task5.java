@@ -2,6 +2,8 @@ package Homework_2.task_5;
 
 import java.util.Arrays;
 
+// форматируй код
+// старайся не оставлять комментарии в коде
 public class Task5 {
 
     public static void main (String [] args)
@@ -10,6 +12,8 @@ public class Task5 {
         int [] array = {0, 1, 2, 3, 4};//исходный массив
         int [] arrayNew = new int[array.length];//вспомогательный массив для записи обратного массива
         int count=0;//счетчик
+        
+        // эту задачу можно решить дойдя только до середины массива и не используя второй
         for (int j=array.length-1; j>=0; j--)
         {
             arrayNew[count] = array[j];//запись элементов в обратном порядке в новый массив
